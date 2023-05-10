@@ -1,6 +1,6 @@
 # Project 12 - User Defaults
 
-First version of the project
+Second version of the project
 
 Days 48-49 of 100 Days Of Swift
 
